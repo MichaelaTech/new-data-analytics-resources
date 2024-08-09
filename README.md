@@ -62,6 +62,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Data Analyst vs Data Scientist](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/)
 
+[How to Use ChatGPT’s Advanced Data Analysis Feature] (https://mitsloanedtech.mit.edu/ai/tools/data-analysis/how-to-use-chatgpts-advanced-data-analysis-feature/)
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
